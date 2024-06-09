@@ -1,0 +1,7 @@
+transformers==4.30.2
+datasets==2.10.1
+torch==2.0.1
+scikit-learn==1.2.2
+pandas==1.5.3
+peft==0.2.0
+lora==0.1.0
