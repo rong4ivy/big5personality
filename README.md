@@ -8,8 +8,8 @@ This project fine-tunes "cardiffnlp/twitter-roberta-base-sentiment-latest" to pr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rong4ivy/big5personalityLM.git
-   cd big5personalityLM
+   git clone https://github.com/rong4ivy/big5personality.git
+   cd big5personality
    ```
 
 2. Install the required packages:
